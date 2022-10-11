@@ -1991,6 +1991,11 @@
   resolved "https://registry.yarnpkg.com/@types/mime/-/mime-3.0.1.tgz#5f8f2bca0a5863cb69bc0b0acd88c96cb1d4ae10"
   integrity sha512-Y4XFY5VJAuw0FgAqPNd6NNoV44jbq9Bz2L7Rh/J6jLTiHBSBJa9fxqQIvkIld4GsoDOcCbvzOUAbLPsSKKg+uA==
 
+"@types/navermaps@^3.0.17":
+  version "3.0.17"
+  resolved "https://registry.yarnpkg.com/@types/navermaps/-/navermaps-3.0.17.tgz#56a554a9aa46d3851723db60a1e363668779a4ef"
+  integrity sha512-NK6z7Cw/X5n6RxduS2o4J2ImluqGjc5EREHZYryoHF5/cSYBao9xpSOXKGKzgrbmJRdC8hwHp6YzTt8Iaju32Q==
+
 "@types/node@*":
   version "18.8.4"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.8.4.tgz#54be907698f40de8a45770b48486aa3cbd3adff7"
