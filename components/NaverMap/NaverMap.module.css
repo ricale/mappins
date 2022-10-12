@@ -1,0 +1,15 @@
+.NaverMapContainer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.NaverMap {
+  width: 100%;
+  height: 100%;
+}
+.BottomRightControl {
+  position: absolute;
+
+  right: 8px;
+  bottom: 8px;
+}

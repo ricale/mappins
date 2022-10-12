@@ -1,0 +1,12 @@
+.Button {
+  padding: 8px;
+  border-radius: 2px;
+  border: 1px solid lightgray;
+
+  background-color: white;
+  cursor: pointer;
+}
+
+.Button > * {
+  display: block;
+}
