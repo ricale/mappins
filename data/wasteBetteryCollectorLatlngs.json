@@ -1,4 +1,4 @@
-const wasteBetteryCollectorLatlngs = [
+[
   {"x":"127.0195082","y":"37.4901186"},
   {"x":"127.0243752","y":"37.4842535"},
   {"x":"127.0240815","y":"37.4865545"},
@@ -272,5 +272,3 @@ const wasteBetteryCollectorLatlngs = [
   {"x":"127.0555269","y":"37.4498096"},
   {"x":"127.0567359","y":"37.4492987"}
 ]
-
-export default wasteBetteryCollectorLatlngs;

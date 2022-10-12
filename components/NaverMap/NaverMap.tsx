@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
-import createMarkers from "../utils/createMarkers";
-import geocode from "../utils/geocode";
-import getLatLngBounds from "../utils/getLatLngBounds";
+import createMarkers from "./createMarkers";
+import geocode from "./geocode";
+import getLatLngBounds from "./getLatLngBounds";
 
 type NaverMapState = {
   map?: naver.maps.Map
